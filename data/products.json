@@ -1,0 +1,12 @@
+[
+ {"id":"to-niacinamide","brand":"The Ordinary","name":"Niacinamide 10% + Zinc 1%","purpose":"a serum to help balance oil and refine the look of pores","keyIngredients":["niacinamide","zinc PCA"],"targets":["pore","oiliness","acne"],"price":null},
+ {"id":"pc-bha","brand":"Paula's Choice","name":"Skin Perfecting 2% BHA Liquid Exfoliant","purpose":"a leave-on exfoliant to smooth texture and clear congested pores","keyIngredients":["salicylic acid"],"targets":["texture","pore","acne"],"price":null},
+ {"id":"to-ha","brand":"The Ordinary","name":"Hyaluronic Acid 2% + B5","purpose":"a hydrating serum to support skin moisture","keyIngredients":["hyaluronic acid","panthenol"],"targets":["moisture"],"price":null},
+ {"id":"cerave-cream","brand":"CeraVe","name":"Moisturizing Cream","purpose":"a rich daily moisturizer to help support the skin barrier","keyIngredients":["ceramides","hyaluronic acid"],"targets":["moisture"],"price":null},
+ {"id":"neutrogena-hb","brand":"Neutrogena","name":"Hydro Boost Water Gel","purpose":"a light gel moisturizer for hydration without heaviness","keyIngredients":["hyaluronic acid"],"targets":["moisture","oiliness"],"price":null},
+ {"id":"lrp-cicaplast","brand":"La Roche-Posay","name":"Cicaplast Baume B5","purpose":"a soothing balm for skin that looks red or irritated","keyIngredients":["panthenol","madecassoside","shea butter"],"targets":["redness"],"price":null},
+ {"id":"to-retinol","brand":"The Ordinary","name":"Retinol 0.5% in Squalane","purpose":"a night treatment to help soften the look of fine lines and texture","keyIngredients":["retinol","squalane"],"targets":["wrinkle","texture"],"price":null},
+ {"id":"to-arbutin","brand":"The Ordinary","name":"Alpha Arbutin 2% + HA","purpose":"a serum to help fade the look of dark spots","keyIngredients":["alpha arbutin","hyaluronic acid"],"targets":["age_spot"],"price":null},
+ {"id":"lrp-anthelios","brand":"La Roche-Posay","name":"Anthelios UVMune 400 Sunscreen","purpose":"a daily sunscreen, the most important step for preventing dark spots and lines","keyIngredients":["Mexoryl 400 UV filter"],"targets":["age_spot","wrinkle"],"price":null},
+ {"id":"to-caffeine","brand":"The Ordinary","name":"Caffeine Solution 5% + EGCG","purpose":"an eye serum to help with the look of dark circles and puffiness","keyIngredients":["caffeine","EGCG"],"targets":["dark_circle_v2","eye_bag"],"price":null}
+]
